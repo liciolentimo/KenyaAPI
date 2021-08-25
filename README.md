@@ -36,5 +36,5 @@ The Kenya API is a REST API that acts a collection of common facts about Kenya.
 
 ## Authorization
 
-The authorization is by *Bearer <token>*
+The authorization is by *Bearer token*
 Kindly get in touch via *lentimo@gmail.com* or [Twitter](https://twitter.com/liciolentimo) to request API key
